@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tranlater"
+        android:icon="@drawable/converter"
+        android:title="" />
+    <item
+        android:id="@+id/favorits"
+        android:title=""
+        android:icon="@drawable/favorite" />
+    <item
+        android:id="@+id/vector"
+        android:title=""
+        android:icon="@drawable/vector"/>
+    <item
+        android:id="@+id/search"
+        android:title=""
+        android:icon="@drawable/search"/>
+    <item
+        android:id="@+id/account"
+        android:title=""
+        android:icon="@drawable/account"/>
+
+</menu>

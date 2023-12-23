@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/description"
+        android:title="@string/projects" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/info"/>
+    <item
+        android:id="@+id/arrow_left"
+        android:title="@string/left"
+        android:orderInCategory="100"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/arrow_right"
+        android:title="@string/right"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>
